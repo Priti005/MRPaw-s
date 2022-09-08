@@ -1,0 +1,35 @@
+div{
+    color:hwb(314 33% 26%);
+	background-color:#67ccb9;
+	height: 100px;   
+}
+#nav{
+    font-size: 30px;
+
+}
+#logo{
+    font-size:35px;
+    position:absolute;
+    top:0px;
+    left:100px;
+}
+#prof{
+    position:absolute;
+    right:150px;
+    top:35px;
+}
+#in{
+    position:absolute;
+    right:300px;
+    top:35px;
+}
+#st{
+    position:absolute;
+    right:450px;
+    top:35px;
+}
+#home{
+    position:absolute;
+    right:600px;
+    top:35px;
+}
